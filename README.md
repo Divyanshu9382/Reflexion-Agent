@@ -55,7 +55,7 @@ Reflexion_Agent/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Divyanshu9382/Reflexion-Agent.git>
    cd Reflexion_Agent
    ```
 
